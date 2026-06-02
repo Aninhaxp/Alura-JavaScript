@@ -1,6 +1,6 @@
 //Crie uma variável saldo iniciando com 0. Depois, simule um depósito de 200 e um saque de 50. Mostre o saldo final no console com uma frase explicando
 
-let nome = "Ana"
+let nome = "Ana";
 
 let saldo = 0;
 let deposito = 200;
